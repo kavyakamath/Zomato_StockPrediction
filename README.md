@@ -1,4 +1,4 @@
-Zomato Stock Prediction Model
+Zomato Stock Price Prediction Model
 
 Overview
 This project aims to develop a machine learning model for predicting the closing price of Zomato's stock based on historical data. The model utilizes various features such as open price, close price, high price, low price, and volume to forecast future stock prices.
